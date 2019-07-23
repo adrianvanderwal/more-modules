@@ -1,0 +1,10 @@
+{
+    "name": "more-modules",
+    "version": "0.0.1",
+    "date": "2019-07-23",
+    "title": "More Modules",
+    "author": "EnigmaticAussie",
+    "dependencies": ["base"],
+    "description": "Adds the ability to create n tiers of modules.",
+    "factorio_version": "0.17"
+  }

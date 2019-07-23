@@ -1,0 +1,50 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.0.7
+Date: 18. 07. 2019
+  Bugfixes:
+    - Fixed ordering of modules
+  Changes:
+---------------------------------------------------------------------------------------------------
+Version: 0.0.6
+Date: 27. 05. 2019
+  Bugfixes:
+    - Fixed crash when UltimateBelts was installed, and tier 0 modules were enabled
+  Minor Features:
+    - Added optional support for UltimateBelts
+  Changes:
+    - Adjusted some locale keys
+---------------------------------------------------------------------------------------------------
+Version: 0.0.5
+Date: 07. 05. 2019
+  Minor Features:
+    - Balancing of effectivity-module-0
+---------------------------------------------------------------------------------------------------
+Version: 0.0.4
+Date: 06. 05. 2019
+  Major Features:
+    - Added an optional tier of modules, lower than the base game
+  Minor Features
+    - Added optional support for module requester
+---------------------------------------------------------------------------------------------------
+Version: 0.0.3
+Date: 03. 05. 2019
+  Major Features:
+    - Added Optional Dependency for:
+      - Angel's Mods
+      - Bob's Mods
+      - Currently the majority of Angel's and Bob's buildings are assembling machines or mining drills and as such are affected by the
+        related settings
+  Changes:
+    - Added missing locale for settings added in 0.0.2
+---------------------------------------------------------------------------------------------------
+Version: 0.0.2
+Date: 01. 05. 2019
+  Minor Features:
+    - Added Labs to list of can have modules
+    - Added settings for all types of buildings to be turned on and off
+        - Centrifuges, Chemical Plants and Oil Refineries are all classed as assembling machines
+---------------------------------------------------------------------------------------------------
+Version: 0.0.1
+Date: ???
+  Major Features:
+    - Initial Release
